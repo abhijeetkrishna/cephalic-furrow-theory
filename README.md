@@ -14,7 +14,7 @@ For the main repository of the cephalic furrow project see [@bruvellu/cephalic-f
 
 Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomančák P. **Patterned embryonic invagination evolved in response to mechanical instability**. bioRxiv (2023) doi:[10.1101/2023.03.30.534554](https://doi.org/10.1101/2023.03.30.534554)
 
-Krishna A, Szałapak A, Vellutini BC, Cuenca MB, Tomančák P and Modes CD. (2023). Model and simulations for: Patterned embryonic invagination evolved in response to mechanical instability. Zenodo doi:[10.5281/zenodo.7784906](https://doi.org/10.5281/zenodo.7784906) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7784906.svg)](https://doi.org/10.5281/zenodo.7784906)
+Krishna A, Szałapak A, Vellutini BC, Cuenca MB, Tomančák P and Modes CD. (2023). **Model and simulations for: Patterned embryonic invagination evolved in response to mechanical instability**. Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7784906.svg)](https://doi.org/10.5281/zenodo.7784906)
 
 ## Acknowledgements
 
