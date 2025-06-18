@@ -7,5 +7,3 @@ Jupyter notebooks used to analyse and plot the data from simulations.
 - [`double_mutant.ipynb`](double_mutant.ipynb): Notebook used to plot the simulation data of double mutant conditions.
 - [`WT.ipynb`](WT.ipynb): Notebook used to plot the simulation data of wildtype conditions.
 
-
-
