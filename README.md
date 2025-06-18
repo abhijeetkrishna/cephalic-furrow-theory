@@ -1,6 +1,8 @@
 # Cephalic Furrow Theory 
 
-This repository contains the theory part of the Cephalic Furrow project. 
+This repository contains the theory part of the cephalic furrow project, including the code, scripts, and notebooks required to run the simulations, analyse and plot the data, as well as smaller data files. Larger data files are available in the Zenodo snapshots.
+
+For the main repository of the cephalic furrow project see [@bruvellu/cephalic-furrow](https://github.com/bruvellu/cephalic-furrow).
 
 ## Folders
 
