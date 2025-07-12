@@ -1,6 +1,6 @@
-# Cephalic Furrow Theory 
+# Cephalic Furrow Theory
 
-This repository contains the theory part of the cephalic furrow project, including the code, scripts, and notebooks required to run the simulations, analyse and plot the data, as well as smaller data files. Larger data files are available in the Zenodo snapshots.
+This repository contains the theory part of the cephalic furrow project. It includes the code, scripts, and notebooks required to run the simulations, perform downstream analyses, and plot the data. The output data of simulations are large and not tracked in this repository, but are available on Zenodo (doi:[10.5281/zenodo.7784906](https://doi.org/10.5281/zenodo.7784906)).
 
 For the main repository of the cephalic furrow project see [@bruvellu/cephalic-furrow](https://github.com/bruvellu/cephalic-furrow).
 
@@ -8,7 +8,7 @@ For the main repository of the cephalic furrow project see [@bruvellu/cephalic-f
 
 - [`1-simulation_scripts`](1-simulation_scripts): Scripts used to set up and perform simulations.
 - [`2-simulation_data`](2-simulation_data): Raw outputs and compiled data frames from simulations.
-- [`3-plotting_notebooks`](3-plotting_notebooks): Notebooks used to analyse and plot simulation data.
+- [`3-plotting_notebooks`](3-plotting_notebooks): Notebooks used to analyze and plot simulation data.
 
 ## Citation
 
@@ -16,7 +16,7 @@ Vellutini BC, Cuenca MB, Krishna A, Szałapak A, Modes CD, Tomančák P. **Patte
 
 Krishna A, Szałapak A, Vellutini BC, Cuenca MB, Tomančák P and Modes CD. (2023). **Model and simulations for: Patterned embryonic invagination evolved in response to mechanical instability**. Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7784906.svg)](https://doi.org/10.5281/zenodo.7784906)
 
-## Acknowledgements
+## Acknowledgments
 
 - Scientific Computation Department at MPI-CBG
 - IT Department at MPI-CBG
